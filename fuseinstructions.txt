@@ -1,0 +1,2 @@
+{thirdvenv} -m pip install -r [requirements.txt]
+{thirdvenv} helloworld.py --port 5555
